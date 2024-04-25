@@ -1,7 +1,7 @@
 //FBF (Foul Bachelor Frog) Meme Displayer for ESP32/ESP8266 and other internet of things nerd devices
 //Uses the Adafruit GFX library and SPI connectivity to the microcontroller
 //
-//Video tutorial here: TBC
+//Video tutorial here: https://youtu.be/aBMWbegtDcs
 //
 //If you're using on something other than an ESP32 then the random number generator will need replacing
 //If using a screen other than a TFT/OLED that's 128x128 pixels then the positioning of the text will
